@@ -1,0 +1,5 @@
+.idea/
+_test
+
+/vendor/*
+!/vendor/vendor.json
